@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text">#FFFFFF</color>
+    <color name="blue_background">#1A385C</color>
+    <color name="gray_background">#5A5A5A</color>
+    <color name="gray_line">#BABABA</color>
+</resources>

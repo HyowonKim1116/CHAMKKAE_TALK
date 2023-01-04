@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="turn_button">불 켜줘</string>
+    <string name="turn_chat">불을 꺼서 어두워졌어요~</string>
+</resources>

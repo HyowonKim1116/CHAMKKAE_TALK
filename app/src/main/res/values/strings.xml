@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">참깨톡</string>
+    <string name="turn_button">불 꺼줘</string>
+    <string name="turn_chat">불을 켜서 환해졌어요~</string>
+</resources>
